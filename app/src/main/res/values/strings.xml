@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="vertical_name">
+        <item> Pikachu </item>
+        <item> Sobble </item>
+        <item> Charmander </item>
+        <item>Squirtle</item>>
+        <item>Bulbasaur</item>
+    </string-array>>
+
+    <string-array name = "Vertical_Description">
+        <item> Pikachu (Japanese: ピカチュウ Pikachu) is an Electric-type Pokémon introduced in Generation I. </item>
+        <item> Sobble (Japanese: メッソン Messon) is a Water-type Pokémon introduced in Generation VIII. </item>
+        <item> Charmander (Japanese: ヒトカゲ Hitokage) is a Fire-type Pokémon introduced in Generation I. </item>
+        <item>Squirtle (Japanese: ゼニガメ Zenigame) is a Water-type Pokémon introduced in Generation I.</item>>
+        <item>Bulbasaur (Japanese: フシギダネ Fushigidane) is a dual-type Grass/Poison Pokémon introduced in Generation I.</item>
+    </string-array>>
+
+
+
+</resources>
